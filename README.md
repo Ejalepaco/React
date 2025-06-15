@@ -14,7 +14,8 @@ Este proyecto permite consultar, mostrar y gestionar información de usuarios co
 
 ---
 
-# 🧑‍💻 Usuarios VCM
+# 🧑‍💻 Usuarios VCM 🇬🇧
+
 
 Web project developed with **Next.js** (React) and **MySQL** to manage users.  
 This project allows you to query, display, and manage user information by connecting to a MySQL database. Use case: *Vóleibol Centro Madrid*.
