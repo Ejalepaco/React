@@ -1,12 +1,10 @@
-// import Image from "next/image";
-// import styles from "./page.module.css";
+import Imagen from "./components/images/imagen";
 
 export default function Home() {
   return (
-    <div>
-      <div className="container">
-        <h1>VCM Inscripciones</h1>
-      </div>
-    </div>
+    <main className="container mt-5">
+      <h1>Welcome to Usuarios VCM</h1>
+      <Imagen />
+    </main>
   );
 }
