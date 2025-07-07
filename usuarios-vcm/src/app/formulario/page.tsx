@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import { Equipo } from "../models/equipo";
+import { Equipo } from "@/models/equipos";
 import Swal from "sweetalert2";
 import "sweetalert2/dist/sweetalert2.min.css";
 
